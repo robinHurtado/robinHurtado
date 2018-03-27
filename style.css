@@ -56,3 +56,7 @@ body, html {
   padding: 6%;
   padding-top: 0;
 }
+
+.photo {
+  height: 50%;
+}
