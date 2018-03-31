@@ -65,3 +65,21 @@ body, html {
 .ab-content {
   margin-top: 2%;
 }
+
+.lead {
+  font-size: 1.65rem;
+}
+
+.container-about a {
+  font-size: 1.25rem;
+}
+
+.slides {
+  height: 100%;
+  width: 100%;
+}
+
+.slides2 {
+  height: 60%;
+  width: 22% !important;
+}
