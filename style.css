@@ -74,12 +74,22 @@ body, html {
   font-size: 1.25rem;
 }
 
-.slides {
-  height: 100%;
-  width: 100%;
+.f-show {
+  padding-bottom: 3%;
 }
 
-.slides2 {
+.f-imgs {
+  height: 80%;
+  width: 80%;
+}
+
+.s-imgs {
   height: 60%;
-  width: 22% !important;
+  width: 47% !important;
+  padding-top: 2.5%;
+}
+
+.s-show {
+  width: 39%;
+  padding-bottom: 5%;
 }
