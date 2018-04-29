@@ -30,7 +30,8 @@ body, html {
   /* Full height */
   height: 100%;
 
-  /* Center and scale the image nicely */
+  /* Center and scale the image nicely and attach parallax */
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -74,6 +75,10 @@ body, html {
   padding-top: 0;
 }
 
+.container-about a {
+  font-size: 1.46rem;
+}
+
 .photo {
   height: 54%;
   width: 80%;
@@ -85,10 +90,6 @@ body, html {
 
 .lead {
   font-size: 1.65rem;
-}
-
-.container-about a {
-  font-size: 1.25rem;
 }
 
 .f-show {
