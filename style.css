@@ -10,11 +10,11 @@ body, html {
   body {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 1rem;
   }
 
   .site-header {
     background: transparent!important;
+    grid-row: 4;
   }
   
   .content{
